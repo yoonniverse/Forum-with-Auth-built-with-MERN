@@ -4,7 +4,7 @@ Simple community forum with authentication made with MERN(MongoDB, Express, Reac
 
 ### Getting started
 
-create .env file at root.
+1. create .env file at root.
 
 ```
 NODE_ENV=development
@@ -13,9 +13,9 @@ MONGO_URI=YOUR_MONGODBATLAS_URI
 JWT_SECRET=RANDOM_STRING
 ```
 
-1. `npm install`
-2. `npm install --prefix frontend`
-3. `npm run dev`
+2. `npm install`
+3. `npm install --prefix frontend`
+4. `npm run dev`
 
 ### Production
 
